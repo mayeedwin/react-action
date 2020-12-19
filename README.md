@@ -1,2 +1,1 @@
-# react-action
-React GitHub Action
+## React GitHub Action
